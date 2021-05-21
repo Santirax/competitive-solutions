@@ -1,3 +1,4 @@
+//Solucion al problema 24 Game de Codeforces
 #include <bits/stdc++.h>
 using namespace std;
 int main (){
@@ -37,7 +38,6 @@ int main (){
         cout<<"7 - 5 = 2\n";
         cout<<"3 - 2 = 1\n";
         cout<<"2 - 1 = 1\n";
-
         for(int i = 0; i < (n-7)/2 + 2; i++)
           cout<<"24 * 1 = 24\n";
       }
